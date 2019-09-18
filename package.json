@@ -1,0 +1,8 @@
+{
+  "name": "kmslk",
+  "version": "1.0.0",
+  "description": "Local network",
+  "main": "index.js",
+  "author": "iznenad",
+  "license": "MIT"
+}
